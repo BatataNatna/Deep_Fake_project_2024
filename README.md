@@ -5,3 +5,6 @@ Le projet IA de la dernière année de master chef de projet IA et management à
 - set the default branch to "dev"
 - meeting Carlos Sureda with Rym and Mike disussing the accuracy of our project.
 - REMOVED branch "mike" due to beeing useless.
+
+28/10/2023
+- Mike Pushed the report "interpretability of models using SHAP"
