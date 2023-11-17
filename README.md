@@ -21,5 +21,6 @@ j'ai trouvé plusieurs projets super interessants dont un note book dont voici l
 
 17/11/2023
 - Merge Rym branch to Dev branch
-
+- Creating "Data_Analysis" notebook
+- working on data analysis.
 
