@@ -24,3 +24,5 @@ j'ai trouvé plusieurs projets super interessants dont un note book dont voici l
 - Creating "Data_Analysis" notebook
 - working on data analysis.
 
+18/11/2023
+- added to Data analysis "distribution by subject"
