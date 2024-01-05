@@ -26,3 +26,20 @@ j'ai trouvé plusieurs projets super interessants dont un note book dont voici l
 
 18/11/2023
 - added to Data analysis "distribution by subject"
+
+27/10/2023
+- Recherche concernant l'interprétabilité d'un modèle.
+
+14/12/2023
+- Analyse des données - Catégorie des nouvelles.
+
+03/01/2024
+- Preuve que la colonne du sujet est biaisée.
+- Analyse complète du texte et du titre.
+
+04/01/2024
+- Premier run complet de l'analyse de données, initiation de la création du modèle.
+- Structuration de la suite.
+
+05/01/2024
+- creation d'un premier model de deep learning pour la détection de fake news.
