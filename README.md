@@ -43,3 +43,10 @@ j'ai trouvé plusieurs projets super interessants dont un note book dont voici l
 
 05/01/2024
 - creation d'un premier model de deep learning pour la détection de fake news.
+
+16/01/2024
+- filtration des données de text, titre et isFake pour avoir un dataset finit.
+- transformation du text en données numériques avec le TF-IDF vectorizer.
+- Creation de 4 models différents : Passive Agressive Algorithm, Logistic regression, Decision Tree, Naive-Bayes et comparer leurs accuraacy respective.
+- Le model Passive aggressive a la meilleure accuracy pour le moment.
+
