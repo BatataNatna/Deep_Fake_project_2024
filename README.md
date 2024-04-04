@@ -50,3 +50,7 @@ j'ai trouvé plusieurs projets super interessants dont un note book dont voici l
 - Creation de 4 models différents : Passive Agressive Algorithm, Logistic regression, Decision Tree, Naive-Bayes et comparer leurs accuraacy respective.
 - Le model Passive aggressive a la meilleure accuracy pour le moment.
 
+07/03/2024 à faire pour la prochaine:
+-data cleaning (test)
+-passif agressif optimisation de sa pipeline 
+-Comprendre l'optimisation de ce model 
