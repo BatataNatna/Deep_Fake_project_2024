@@ -1,4 +1,4 @@
 {
-    "TOKENIZER_ID": "tfidf",
+    "TOKENIZER_ID": "bert",
     "nrows": 0
 }
