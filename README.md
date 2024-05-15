@@ -54,3 +54,6 @@ j'ai trouvé plusieurs projets super interessants dont un note book dont voici l
 -data cleaning (test)
 -passif agressif optimisation de sa pipeline 
 -Comprendre l'optimisation de ce model 
+
+10/05/2024 
+Generer et arranger le vrAI
